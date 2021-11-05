@@ -1,0 +1,31 @@
+.dropdown{
+    margin-top: 34px;
+}
+
+.createStudent {
+    margin-top: 34px;
+}
+
+.saveButton{
+    margin-left: 48%;
+}
+
+.studentNationality{
+    margin: 0 auto;
+    background: red;
+    min-height: 124px;
+}
+.student{
+    width: 99%;
+    background: white;
+    text-align: center;
+    height: 20px;
+    margin: 0 auto;
+    margin-top: 23px;
+}
+
+.sortButton {
+    margin: 0 auto;
+    width: 198px;
+    margin-top: 10px;
+}
